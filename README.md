@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Georgiou - @glgeorgiou
-- 👀 I’m interested in QA Engineering /  testingCancel changes
+- 👀 I’m interested in QA Engineering /  testing
 - 🌱 I’m currently moving from web development to QA
 - 💞️ I’m looking to collaborate on any project related to QA
 - 📫 How to reach me in LinkedIn: https://www.linkedin.com/in/georgiosgeorgiougr/
